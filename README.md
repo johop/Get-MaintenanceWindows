@@ -7,7 +7,7 @@ Displays all configured Maintenance Windows for a provided ConfigMgr Client reso
     Version: 3.0
     Author: Joseph Hopper
     Creation Date: 5/13/2019
-    Purpose/Change: Added a GUI to the main PowerShell script
+    Purpose/Change: Added a GUI to the Get-MaintenanceWindows PowerShell script
 
 Requirements:
 
